@@ -29,3 +29,6 @@ to change how long people have to answer.
 
 Anyone who doesn't reply within the timeout is still included; their Secret
 Santa is told to surprise them. Participants must allow DMs from server members.
+
+Games are kept in memory only: if the bot restarts while a Secret Santa is
+running, that game is lost and has to be started again with `!start`.
